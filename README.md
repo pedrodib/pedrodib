@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋, ~~General Kenobi~~ I'm Pedro Dib
+#### Brazillian Back-End Developer and House Music Lover!
+Currently I'm a System Specialist at Locaweb (One of the biggest Tech Companies in Brazil), working with a lot of data!
 
-<!--
-**pedrodib/pedrodib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Kafka and CQRS 
+- 💬 Ask me about my experiences working with a lot of data 
+- 📫 How to reach me: Anywhere you find me 
+- ⚡ Fun fact: I am Global Rank in CSGO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedrodib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-dib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro.dib/)  
+
