@@ -7,9 +7,16 @@ Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
 
 - 🌱 I’m currently learning Kafka and CQRS 
 - 💬 Ask me about my experiences working with a lot of data 
-- 📫 How to reach me: Anywhere you find me 
-- ⚡ Fun fact: I am Global Rank in CSGO
+- 📫 How to reach me: :point_left: Try here on the side
+- :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165)
+- :milky_way:: Fun fact²: I'm a Star Wars Lover :milky_way:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedrodib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-dib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedro.dib/)  
+[![linkeind][linkedin_badge]](https://www.linkedin.com/in/pedro-dib)
+[![instagram][instagram_badge]](https://www.instagram.com/pedro.dib)
+[![steam][steam_badge]](https://steamcommunity.com/id/phdd)
 
+<!-- Tech things -->
+[linkedin_badge]: https://img.shields.io/static/v1?style=flat&logo=linkedin&label=linkedin&color=0077B5&message=pedro-dib
+[instagram_badge]: https://img.shields.io/static/v1?style=flat&logo=instagram&label=instagram&color=E4405F&message=pedro.dib
+[steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=Kenobi
