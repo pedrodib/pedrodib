@@ -8,8 +8,8 @@ Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
 - 🌱 I’m currently learning Kafka and CQRS 
 - 💬 Ask me about my experiences working with a lot of data 
 - 📫 How to reach me: :point_left: Try here on the side
-- :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165)
-- :milky_way:: Fun fact²: I'm a Star Wars Lover :milky_way:
+- :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165) ~~Maybe not at the moment~~
+- :milky_way:: Fun fact²: I'm a Star Wars Lover
 
 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/pedro-dib)
