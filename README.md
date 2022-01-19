@@ -5,7 +5,7 @@ Currently I'm a System Specialist at [Locaweb](https://github.com/locaweb) (One 
 
 Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
 
-- 🌱 I’m currently learning Kafka and CQRS 
+- 🌱 I’m currently learning Kafka, Elastic Search and K8s
 - 💬 Ask me about my experiences working with a lot of data 
 - 📫 How to reach me: :point_left: Try here on the side
 - :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165) ~~Maybe not at the moment~~
