@@ -3,9 +3,8 @@
 #### Brazillian Back-End Developer and House Music Lover!
 Currently I'm a System Specialist at [Locaweb](https://github.com/locaweb) (One of the biggest Tech Companies in Brazil), working with a lot of data!
 
-Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
+Skills: PHP / MYSQL / JAVA / SPARK / SPRINGBOOT / MONGODB / SOLR / ELASTICSEARCH / KAFKA
 
-- 🌱 I’m currently learning Kafka, Elastic Search and K8s
 - 💬 Ask me about my experiences working with a lot of data 
 - 📫 How to reach me: :point_left: Try here on the side
 - :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165) ~~Maybe not at the moment~~
