@@ -21,7 +21,3 @@ Skills: PHP / MYSQL / JAVA / SPARK / MONGODB / SOLR
 [instagram_badge]: https://img.shields.io/static/v1?style=flat&logo=instagram&label=instagram&color=E4405F&message=pedro.dib
 [steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=Kenobi
 
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrodib&left_color=gray&right_color=red)
