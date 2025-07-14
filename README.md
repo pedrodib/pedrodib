@@ -1,14 +1,27 @@
 ### Hello there 👋, ~~General Kenobi~~ I'm Pedro Dib 
 
-#### Brazillian Back-End Developer and House Music Lover!
-Currently I'm a System Specialist at [Locaweb](https://github.com/locaweb) (One of the biggest Tech Companies in Brazil), working with a lot of data!
+#### Brazilian Back-End Developer 🎧⚡️ Rock & Electronic Music Lover!
+Currently I'm a Tech Lead at [Locaweb](https://github.com/locaweb) (One of the biggest Tech Companies in Brazil), working extensively with large-scale systems!
 
-Skills: PHP / MYSQL / JAVA / SPARK / SPRINGBOOT / MONGODB / SOLR / ELASTICSEARCH / KAFKA
+### About Me  
+I am passionate about building scalable backend systems and exploring the latest trends in Generative AI.  
+When I'm not coding, I enjoy listening to electronic and rock music, and indulging in Star Wars marathons.
+
+**Skills:**
+- Java 
+- PHP
+- Spring Boot
+- Apache Spark  
+- MongoDB  
+- MySQL  
+- Elasticsearch  
+- Solr  
+- Kafka  
 
 - 💬 Ask me about my experiences working with a lot of data 
 - 📫 How to reach me: :point_left: Try here on the side
-- :video_game:: Fun fact¹: [I'm Global Rank in CSGO](https://csgostats.gg/player/76561198121209165) ~~Maybe not at the moment~~
-- :milky_way:: Fun fact²: I'm a Star Wars Lover
+- 🎮 Fun fact #1: Global Rank in [CS:GO](https://csgostats.gg/player/76561198121209165) — well, maybe not right now!
+- :milky_way:: Fun fact #2: I'm a Star Wars Lover
 
 
 [![linkeind][linkedin_badge]](https://www.linkedin.com/in/pedro-dib)
@@ -20,3 +33,4 @@ Skills: PHP / MYSQL / JAVA / SPARK / SPRINGBOOT / MONGODB / SOLR / ELASTICSEARCH
 [instagram_badge]: https://img.shields.io/static/v1?style=flat&logo=instagram&label=instagram&color=E4405F&message=pedro.dib
 [steam_badge]: https://img.shields.io/static/v1?style=flat&logo=steam&label=steam&color=000000&message=Kenobi
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodib&layout=compact)
